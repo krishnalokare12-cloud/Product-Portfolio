@@ -1,6 +1,6 @@
-# Krishna Lokare – Junior Product Manager Portfolio
+# Krishna Lokare – Product Management Portfolio
 
-Welcome to the professional portfolio of Krishna Lokare, showcasing my experience and projects as a Junior Product Manager specializing in fintech domain. This portfolio highlights my expertise in product management, user experience coordination, and feature development aimed at enhancing customer engagement and delivering business value.
+Welcome to the professional portfolio of Krishna Lokare, showcasing my experience and projects as a Product Management Professional specializing in fintech domain. This portfolio highlights my expertise in product management, user experience coordination and feature development aimed at enhancing customer engagement and delivering business value.
 
 ---
 
