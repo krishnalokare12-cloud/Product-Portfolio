@@ -1,17 +1,40 @@
 # Krishna Lokare - Junior Product Manager Portfolio
 
-This portfolio showcases Krishna Lokare's professional experience as a Junior Product Manager specializing in fintech product management, particularly focusing on user experience (UX) and engagement features.
+Welcome to my portfolio showcasing my work as a Junior Product Manager in fintech. This collection highlights projects where I contributed to enhancing user experiences and driving product engagement through effective collaboration and thoughtful product management.
 
-## Overview
+## Portfolio Highlights
 
-This portfolio highlights a series of case studies demonstrating expertise in:
+- Requirement gathering and documenting clear Business Requirements Documents (BRDs)  
+- Partnering with UX, engineering, and QA teams for high-quality delivery  
+- Managing product features end-to-end from ideation through UAT support  
+- Focus on fintech user engagement, gamification, and data-driven features  
 
-- Requirement gathering and Business Requirements Document (BRD) preparation  
-- Cross-functional collaboration with UX, engineering, and QA teams  
-- Functional testing and User Acceptance Testing (UAT) support  
-- Product feature ideation, specification, and delivery
+## Featured Projects
 
-The portfolio presents professional experience in a generalized and non-confidential manner, without sharing proprietary systems, user data, or internal documentation.
+### Bill Reminder Feature  
+Automated reminders for users to manage bill payments efficiently, resulting in reduced late fees and improved user satisfaction.
+
+### Job Application Tracker  
+A solution enabling users to track their job applications, statuses, and follow-ups, increasing application management effectiveness.
+
+### Gamified Daily Quiz  
+An engagement feature to boost daily interactions through gamification, improving retention and user learning.
+
+### Credit Score Insights  
+Features that provide users with benchmarking and visualization of their credit scores, helping them understand their financial health.
+
+## Skills and Tools
+
+- JIRA, Excel, SQL  
+- Figma, Lucidchart for UX and process design  
+
+## About Me
+
+I am passionate about building products that solve real user problems by working closely with cross-functional teams. I specialize in fintech product management, focusing on clear communication, agile collaboration, and delivering measurable outcomes.
+
+## Disclaimer
+
+This portfolio reflects my professional experience in a generalized and non-confidential manner. It contains no proprietary systems, customer data, or internal documentation.
 
 ## Features Covered
 
