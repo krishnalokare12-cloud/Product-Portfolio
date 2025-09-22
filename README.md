@@ -1,20 +1,34 @@
+# Krishna Lokare - Junior Product Manager Portfolio
+
 This portfolio showcases Krishna Lokare's professional experience as a Junior Product Manager specializing in fintech product management, particularly focusing on user experience (UX) and engagement features.
 
-Overview
+## Overview
+
 This portfolio highlights a series of case studies demonstrating expertise in:
 
-Requirement gathering and Business Requirements Document (BRD) preparation
-
-Cross-functional collaboration with UX, engineering, and QA teams
-
-Functional testing and User Acceptance Testing (UAT) support
-
-Product feature ideation, specification, and delivery
+- Requirement gathering and Business Requirements Document (BRD) preparation  
+- Cross-functional collaboration with UX, engineering, and QA teams  
+- Functional testing and User Acceptance Testing (UAT) support  
+- Product feature ideation, specification, and delivery
 
 The portfolio presents professional experience in a generalized and non-confidential manner, without sharing proprietary systems, user data, or internal documentation.
 
-Features Covered
-Bill Reminder Feature
+## Features Covered
+
+1. **Bill Reminder Feature**  
+   Automated bill payment reminders reducing late fees and increasing user engagement.
+
+2. **Job Application Tracker**  
+   A tool for job seekers to track their applications and follow-ups with timely reminders.
+
+3. **Credit Score Benchmarking Feature**  
+   Contextualizes users' credit scores against peers to enhance understanding and engagement.
+
+4. **Daily Quiz - Gamification Engagement Feature**  
+   Gamified quizzes designed to increase daily user activity and retention.
+
+5. **Credit Score History Graph**  
+   Visual trend representation of credit score
 Automated bill payment reminders reducing late fees and increasing user engagement.
 
 Job Application Tracker
